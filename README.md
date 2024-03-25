@@ -19,7 +19,7 @@
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   
-  <img align="right" alt="Rafa-pic" height="100" width="100" src="https://github.com/Walcygleicson/Tela_De_Login_DarkPink/blob/main/animation/animation.svg">
+  <img align="right" alt="WMO-Pic" height="100" width="100" src="https://github.com/Walcygleicson/Tela_De_Login_DarkPink/blob/main/animation/animation.svg">
 </div>
 
 ##
